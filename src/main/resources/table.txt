@@ -1063,3 +1063,6 @@ Registration process review
 Exam and Promote to next class functionality review
 Need of technews and its source 
 Image storing strategies for all menus
+
+
+Multiple videos , images for topics, tech news etc are possible
