@@ -1044,25 +1044,27 @@ enter more data and test
 student upload procedure
 dictionary
 --------------------------------------------
-Messaging parents, students individually
-NEWSFeed should not get repeated again and again
-remove unwanted posts
-after editing topic url its not updating the newsfeed
+    Search functionality on Newsfeed
+    Slider on home screen - it also can be a one of the detail stories inside
+    Profile picture & Account information\
+    Multiple videos , images for topics, tech news etc are possible
+
 Newsfeed and other menus should be in sync
+after editing topic url its not updating the newsfeed - resource tables introduction
+
+NEWSFeed should not get repeated again and again
+Use UI from healthcareweb for Dashboard and others
 load more - table refresh issue
-Search functionality on Newsfeed
-Slider on home screen - it also can be a one of the detail stories inside
-Profile picture & Account information\
-multiple videos and images for one topic is possible
-Remove Word of the day from home screen and Use that place for showing some meaningful graph
-Use UI from healthcareweb
+
+remove unwanted posts functionality
+Exam refinement and Promote to next class functionality review
+Remove Word of the day from home screen 
+Use that place for showing some meaningful graph
+Messaging parents, students individually - change the notice to this
 Something about releasing institution events
 
 Junior and Senior flavours n functionlity
 Registration process review
-Exam and Promote to next class functionality review
-Need of technews and its source 
-Image storing strategies for all menus
 
-
-Multiple videos , images for topics, tech news etc are possible
+    Need of technews and its source 
+    Image storing strategies for all menus
